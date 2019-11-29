@@ -1,7 +1,2 @@
 # ES6-notebook
-## let
-```text
-1. let命令类似于var用来声明变量
-  a) let声明的变量只在代码块{}内有效
-```
-## 
+[01. let 和 const 命令](01-let和const命令.md)
